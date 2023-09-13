@@ -105,21 +105,12 @@ h2 {
   color: #7600bc;
 }
 
-#about-me #caption {
+#about-me p {
   font-size: 25px;
   color: rgb(128, 128, 128);
   margin-top: -1cm;
 }
-#about-me #aboutdiv #paragraph {
-  font-size: 25px;
-  color: rgb(128, 128, 128);
-  margin-top: -1cm;
-  column-span: all;
-  text-align: center;
-}
-  #aboutdiv {
-         column-count: 3;
-  }
+
 .profile_image {
   width: 550px;
   height: fit-content;
@@ -148,8 +139,6 @@ h2 {
 }
 
 .skill img {
-
- 
   height: 75px;
   align-items: center;
 }
