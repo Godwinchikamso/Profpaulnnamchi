@@ -105,10 +105,16 @@ h2 {
   color: #7600bc;
 }
 
+#about-me p #caption {
+  font-size: 25px;
+  color: rgb(128, 128, 128);
+  margin-top: -1cm;
+}
 #about-me p {
   font-size: 25px;
   color: rgb(128, 128, 128);
   margin-top: -1cm;
+  text-align: justify;
 }
 
 .profile_image {
